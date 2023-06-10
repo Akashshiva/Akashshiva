@@ -13,7 +13,7 @@
 
 - 💪 I'm good at **Team Collaboration, Problem Solving and Analytical Skills**
 
-- 📫 How to reach me **akashshiva2002@gmail.com**
+- 📫 Reach me at **akashshiva2002@gmail.com**
 
 - ⚡ Fun fact - **I am a Trader✌️**
 
