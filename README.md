@@ -1,4 +1,4 @@
-![logo](https://github.com/Akashshiva/Akashshiva/blob/main/Banner.png)
+![logo](https://github.com/Akashshiva/Akashshiva/blob/main/Banner_Logo.png)
 
 
 <h1 align="center">Hi 👋, I'm Akash Khan</h1>
