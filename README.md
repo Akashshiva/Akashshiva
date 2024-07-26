@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Akash Khan</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2344dacc&size=32&center=true&vCenter=true&width=600&height=50&lines=Passionate+Data+Scientist;Specialized+in+Machine+Learning" alt="Headline"></h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/03/99/91/03999141bb34e16c89b27a863092a10a.gif">
+<p align="right">
+    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/03/99/91/03999141bb34e16c89b27a863092a10a.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshiva&label=Profile%20views&color=0e75b6&style=flat" alt="akashshiva" /> </p>
 
