@@ -1,18 +1,16 @@
 <!--
   Profile README for Akash Khan (@Akashshiva)
-  Focus: IT Networking | Network Automation | Data Analytics | Applied AI/ML
+  Professional focus: Reliability Engineering | Network Monitoring & Automation | Data Science | AI/ML
 -->
 
 <div align="center">
   <h1>Hi, I'm Akash Khan 👋</h1>
-  <h3>IT Network Engineer | AI/ML Postgraduate Learner | Python & Automation Enthusiast</h3>
+  <h3>Associate Reliability Engineer at BT Group | Python Automation | Data Science & AI/ML</h3>
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Building+reliable+network+operations+with+automation;Exploring+Machine+Learning+and+Deep+Learning;Turning+data+into+actionable+insights;Learning+and+building+with+Python+every+day" alt="Typing introduction" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&lines=Reliability+Engineering+%26+Network+Operations;Python+Automation+%26+Operational+Monitoring;Data+Science%2C+Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Natural+Language+Processing" alt="Animated professional headline" />
 
   <p>
-    <a href="https://www.linkedin.com/in/akashshiva" target="_blank">
+    <a href="https://www.linkedin.com/in/akashshiva/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:akashshiva2002@gmail.com">
@@ -28,145 +26,139 @@
 
 ---
 
-## ⚡ Professional Overview
+## 👨‍💻 Professional Summary
 
-I work in **IT Networking**, with a strong interest in using **Python, data analytics, and AI/ML** to make technology operations more efficient and intelligent. My work and learning sit at the intersection of reliable network infrastructure, automation, and data-driven problem solving.
+I am an **Associate Reliability Engineer at BT Group** with a technical background in enterprise operations, network monitoring, Python automation, Data Science, and Artificial Intelligence.
 
-I am pursuing an **M.Tech in Artificial Intelligence and Machine Learning at BITS Pilani (WILP)** while building practical projects in machine learning, deep learning, computer vision, and data analytics.
+My professional work focuses on infrastructure and operational reliability, monitoring, logging, reporting, and improving repetitive workflows. I independently created a monitoring system to capture and maintain operational logs, and contributed to existing Python scripts used for site power-down and power-up activities.
 
-```yaml
-name: Akash Khan
-github: Akashshiva
-location: India
-current_focus:
-  - IT Networking & Network Operations
-  - Python-based Network Automation
-  - Data Analytics & Visualization
-  - Machine Learning & Deep Learning
-  - Computer Vision & Model Deployment
-education:
-  - M.Tech, Artificial Intelligence and Machine Learning — BITS Pilani (WILP)
-working_style:
-  - Practical problem solving
-  - Continuous learning
-  - Automation-first thinking
-```
+Alongside my professional experience, I am pursuing an **M.Tech in Artificial Intelligence and Machine Learning, specialising in Natural Language Processing, at BITS Pilani**. I am interested in applying analytical and machine learning techniques to practical engineering and business problems.
 
 ## 💼 Professional Experience
 
-**IT Networking — BT Group**
+### BT Group
 
-Working in IT networking and operations, with exposure to network monitoring, service management, infrastructure visibility, and automation-oriented workflows.
+**Associate Reliability Engineer**  
+*August 2025 – Present | Kolkata, West Bengal, India*
 
-**Tools and platforms**
-- Network monitoring and visibility: SolarWinds, Arista CloudVision
-- IT service management: ServiceNow
-- Reporting and analytics: QlikView
-- Automation and scripting: Python
+- Independently created a monitoring system to capture, organise, and maintain operational logs, improving operational visibility and traceability.
+- Contributed to existing Python automation scripts supporting site power-down and power-up activities.
+- Worked with **SolarWinds** and **Arista CloudVision** for infrastructure monitoring and network visibility.
+- Used **ServiceNow** for IT service management and operational workflows.
+- Generated CMDB and infrastructure asset reports using **QlikView**, covering more than **5,000 IT assets**.
+- Contributed to Python-based data collection and reporting automation workflows, helping reduce report generation time by approximately **40%**.
 
-**Selected work themes**
-- Supporting network operations and infrastructure service workflows.
-- Using monitoring and service-management platforms to investigate and track operational events.
-- Building Python automation to reduce repetitive operational effort.
-- Working with asset and CMDB reporting across large IT environments.
+**Tools:** Python | SolarWinds | Arista CloudVision | ServiceNow | QlikView | Network Monitoring | Operational Logging
+
+### BT Group
+
+**Business Intern**  
+*January 2025 – July 2025 | Kolkata, West Bengal, India*
+
+### The Sparks Foundation
+
+**Analyst Trainee**  
+*May 2024 – November 2024*
 
 ## 🎓 Education
 
-**M.Tech — Artificial Intelligence and Machine Learning**  
-BITS Pilani, Work Integrated Learning Programmes (WILP)  
-*In progress*
+### Birla Institute of Technology and Science, Pilani
 
-## 🧠 Areas of Interest
+**Master of Technology (M.Tech.) – Artificial Intelligence and Machine Learning**  
+Specialisation: **Natural Language Processing (NLP)**  
+*July 2026 – June 2028*
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Networking & Automation</h3>
-      <ul>
-        <li>Network operations and monitoring</li>
-        <li>Python scripting and workflow automation</li>
-        <li>Infrastructure and asset reporting</li>
-        <li>Network reliability and observability</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Artificial Intelligence</h3>
-      <ul>
-        <li>Machine Learning and Deep Learning</li>
-        <li>Computer Vision</li>
-        <li>Natural Language Processing</li>
-        <li>Model evaluation and deployment</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data & Analytics</h3>
-      <ul>
-        <li>Exploratory Data Analysis</li>
-        <li>SQL and data preparation</li>
-        <li>Power BI and QlikView</li>
-        <li>Statistical analysis and visualization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Engineering</h3>
-      <ul>
-        <li>Python application development</li>
-        <li>REST/API fundamentals</li>
-        <li>Git and GitHub workflows</li>
-        <li>Streamlit model applications</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Chandigarh University
+
+**Bachelor of Engineering (B.E.) – Computer Science**  
+Specialisation: **Artificial Intelligence and Machine Learning**  
+*July 2021 – June 2025*
+
+### DAV Schools Network
+
+**Matriculation and Intermediate**  
+Class 10: General Studies | Class 12: Physics, Chemistry, Mathematics and Computer Science  
+*April 2007 – March 2020*
+
+## 🧠 Core Skills & Areas of Interest
+
+| Area | Skills and Technologies |
+|---|---|
+| Core strengths | Data Science, Machine Learning, Deep Learning |
+| Programming | Python, SQL; familiarity with Java and C++ |
+| Networking & Reliability | Network Operations, Network Monitoring, Operational Logging, Infrastructure Monitoring |
+| Automation | Python Automation, Workflow Automation, Operational Process Automation |
+| Machine Learning | Scikit-learn, TensorFlow, PyTorch |
+| AI Specialisations | Natural Language Processing, Computer Vision |
+| Data Analysis | Pandas, NumPy, Matplotlib, Statistical Analysis, Predictive Modelling |
+| Visualization | Tableau, QlikView, Power BI |
+| Big Data | Hadoop, Apache Spark |
+| Cloud | AWS, Microsoft Azure |
+| Enterprise Tools | SolarWinds, Arista CloudVision, ServiceNow |
+| Other Interests | Financial Markets Analysis |
 
 ## 🚀 Featured Projects
 
 ### 1. Phishing Website Detection
-Machine learning project comparing classification algorithms to identify potentially malicious websites. Includes a Streamlit application for model selection and evaluation.
 
-- **Stack:** Python, Pandas, Scikit-learn, Streamlit
+Machine learning project for classifying potentially malicious websites. Compared Logistic Regression, Decision Tree, K-Nearest Neighbours, Naive Bayes, and Support Vector Machine models. Built an interactive Streamlit application for model selection and evaluation.
+
+- **Technologies:** Python, Pandas, Scikit-learn, Streamlit
 - **Repository:** [Phishing Website Detection](https://github.com/Akashshiva/Phishing_Website_Detection)
-- **Live app:** [Open Streamlit application](https://phishingwebsitedetection-ml.streamlit.app/)
+- **Live application:** [Open Streamlit App](https://phishingwebsitedetection-ml.streamlit.app/)
 
 ### 2. Skin Cancer Detection
-Deep learning and computer vision project exploring image-based skin lesion classification.
 
-- **Stack:** Python, TensorFlow/Keras, CNN, MobileNetV2, Flask
+Deep learning and computer vision project exploring image-based skin lesion classification using convolutional neural networks and MobileNetV2.
+
+- **Technologies:** Python, TensorFlow/Keras, CNN, MobileNetV2, Flask
 - **Repository:** [Skin Cancer Detection](https://github.com/Akashshiva/Skin_Cancer_Detection)
 
 ### 3. Indian Paper Currency Classification
-Computer vision project focused on classifying Indian paper currency denominations from images.
 
-- **Stack:** Python, Deep Learning, Computer Vision
+Computer vision project focused on image-based classification of Indian paper currency denominations.
+
+- **Technologies:** Python, Deep Learning, Computer Vision
 - **Repository:** [Indian Paper Currency Classification](https://github.com/Akashshiva/Indian_Paper_Currency_Classification)
 
 ### 4. Sales Analysis
-Data analysis project focused on exploring sales data and communicating insights through analysis and visualizations.
 
-- **Stack:** Python, SQL, Power BI
+Data analysis project focused on exploring sales data, identifying patterns, and communicating insights through analytical reports and visualisations.
+
+- **Technologies:** Python, SQL, Power BI
 - **Repository:** [Sales Analysis](https://github.com/Akashshiva/Sales_Analysis)
 
 ### 5. Handwritten Equation Solver
-Computer vision project exploring recognition and solving of handwritten mathematical equations.
 
-- **Stack:** Python, Deep Learning, Computer Vision
+Project exploring recognition and solving of handwritten mathematical expressions using computational and computer vision techniques.
+
+- **Technologies:** Python, Deep Learning, Computer Vision
 - **Repository:** [Handwritten Equation Solver](https://github.com/Akashshiva/Handwritten_Equation_Solver)
 
 ### 6. Campus Placement Prediction
+
 Predictive modelling project focused on analysing student attributes and estimating placement outcomes.
 
-- **Stack:** Python, Machine Learning, Scikit-learn
+- **Technologies:** Python, Machine Learning, Scikit-learn
 - **Repository:** [Campus Placement Prediction](https://github.com/Akashshiva/Campus_Placement_Prediction)
 
 ### 7. Credit Card Default Classification
-Machine learning classification project for analysing credit-card default risk.
 
-- **Stack:** Python, Data Analysis, Machine Learning
+Machine learning classification project focused on analysing credit card default risk.
+
+- **Technologies:** Python, Data Analysis, Machine Learning
 - **Repository:** [Credit Card Default Classification](https://github.com/Akashshiva/Credit_Card_Default_Classification)
 
----
+## 📜 Certifications
+
+- **Data Science: Python for Data Analysis**
+- **Data Science Masters**
+
+## 📚 Publication
+
+**Melanoma Skin Cancer Detection**
+
+Research publication related to melanoma skin cancer detection.
 
 ## 🛠️ Technology Stack
 
@@ -183,18 +175,23 @@ Machine learning classification project for analysing credit-card default risk.
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
-### Data Visualization & Apps
+### Analytics & Visualization
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/QlikView-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="QlikView" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 
-### Networking, Cloud & Tools
+### Networking & Enterprise Tools
 <img src="https://img.shields.io/badge/SolarWinds-FB4F14?style=for-the-badge&logo=solarwinds&logoColor=white" alt="SolarWinds" />
 <img src="https://img.shields.io/badge/Arista_CloudVision-005A9C?style=for-the-badge&logo=arista&logoColor=white" alt="Arista CloudVision" />
 <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+
+### Development & Cloud
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
 
 </div>
 
@@ -213,10 +210,10 @@ Machine learning classification project for analysing credit-card default risk.
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with people working in **network engineering, Python automation, data analytics, and applied AI/ML**.
+I'm interested in connecting with professionals working in **reliability engineering, network operations, Python automation, data science, and applied AI/ML**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akashshiva">
+  <a href="https://www.linkedin.com/in/akashshiva/">
     <img src="https://img.shields.io/badge/LinkedIn-Akash_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:akashshiva2002@gmail.com">
@@ -225,5 +222,5 @@ I'm interested in connecting with people working in **network engineering, Pytho
 </p>
 
 <div align="center">
-  <i>“Learn continuously. Automate thoughtfully. Build things that solve real problems.”</i>
+  <i>“Build reliable systems. Automate thoughtfully. Turn data into insight.”</i>
 </div>
