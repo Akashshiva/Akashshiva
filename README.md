@@ -201,12 +201,12 @@ Machine learning classification project for analysing credit-card default risk.
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akashshiva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashshiva&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Akashshiva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akashshiva&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Akashshiva&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashshiva&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" />
+  <img src="https://ghchart.rshah.org/2F80ED/Akashshiva" alt="GitHub contribution calendar" />
 </div>
 
 ---
