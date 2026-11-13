@@ -16,9 +16,6 @@
     <a href="mailto:akashshiva2002@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/Akashshiva">
-      <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=Akashshiva&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
