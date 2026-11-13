@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am an **Associate Reliability Engineer at BT Group** with a technical background in enterprise operations, network monitoring, Python automation, Data Science, and Artificial Intelligence.
+I am an **Associate Reliability Engineer at BT Group** with a technical background in Python automation, Data Science, and Artificial Intelligence.
 
 My professional work focuses on infrastructure and operational reliability, monitoring, logging, reporting, and improving repetitive workflows. I independently created a monitoring system to capture and maintain operational logs, and contributed to existing Python scripts used for site power-down and power-up activities.
 
