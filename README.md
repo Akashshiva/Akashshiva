@@ -207,7 +207,7 @@ Research publication related to melanoma skin cancer detection.
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with professionals working in **reliability engineering, network operations, Python automation, data science, and applied AI/ML**.
+I'm interested in connecting with professionals working in **Python automation, Data science, and Applied AI/ML**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akashshiva/">
